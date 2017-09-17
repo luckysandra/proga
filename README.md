@@ -1,2 +1,2 @@
 # proga
-For my Computer Science classes / Для домашних заданий по программированию
+For my Computer Science homework / Для домашних заданий по программированию
